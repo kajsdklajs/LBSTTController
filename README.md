@@ -23,4 +23,4 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/LBSTTController.git
+   git clone https://github.com/ajsdklajs/LBSTTController.git
