@@ -1,0 +1,26 @@
+# Android Studio
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# APK и bundle
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Java
+*.class
+
+# Keystore (ВАЖНО — не заливать подписи!)
+*.jks
+*.keystore
+
+# Логи
+*.log
